@@ -194,7 +194,7 @@ function createQuiz(){
     var submit = document.createElement('button')
     submit.id ='sub1'
     submit.style = 'border-radius: 12px;background-color: rgb(7, 228, 92);height: 40px; width :100px'
-    submit.innerHTML = 'SBUMIT'
+    submit.innerHTML = 'SUBMIT'
     submit.setAttribute("onclick", "submitAns()");
     div72.appendChild(submit)
     div7.appendChild(div71)
