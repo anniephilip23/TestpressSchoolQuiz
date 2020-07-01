@@ -39,7 +39,7 @@ function myfunction() {
     var div3 = document.createElement("div");
     div3.id = 'div3'
     divmain.appendChild(div3)
-    var quizImag = ['https://www.loveaquiz.com/wp-content/uploads/science-nature-quiz.jpg', 'https://www.freshers-iq-adda.com/assets/images/computer-quiz-723x482-43.png',
+    var quizImag = ['https://www.loveaquiz.com/wp-content/uploads/science-nature-quiz.jpg', 'https://www.studyvirus.com/wp-content/uploads/2017/12/Capture-13.jpg',
         'https://www.quizony.com/general-knowledge-quiz/imageForSharing.png', 'https://i1.wp.com/quizagogo.com/wp-content/uploads/2018/07/2018-07-11-018.jpg?resize=768%2C384&ssl=1']
     quizImag.forEach((element, i) => {
         var div = document.createElement("div");
